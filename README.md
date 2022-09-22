@@ -4,9 +4,8 @@ AtliQ Hardware decided to implement Data Analytics and Visualisation for the fir
 <hr style="border:1px solid gray">
 Tech Stack Used
 <hr style="border:1px solid gray">
-1. SQL
-2. PowerBI Desktop
-3. Excel
-4. Dax Language
-5. Dax Studio
++SQL
++PowerBI Desktop
++Excel
+
 <hr style="border:1px solid gray">
