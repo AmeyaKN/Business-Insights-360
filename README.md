@@ -53,9 +53,20 @@ I have worked and completed this project by following the Codebasics PowerBi Cou
   - Issue Resolving Page
   
  # Dashboard Screens
-    ## Sales View
-
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+  ## Home Page
+   ![HomePage.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/HomePage.PNG)
+  ## Finance View
+   ![FinanceView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/FinanceView.PNG)
+  ## Sales View
+   ![SalesView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/SalesView.PNG)
+  ## Marketing View
+   ![MarketingView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/MarketingView.PNG)
+  ## Supply Chain View
+   ![SupplyChainView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/SupplyChainView.PNG)
+  ## Executive View
+   ![ExecutiveView.PNG](https://github.com/AmeyaKN/Business-Insights-360/blob/main/Resources/ExecutiveView.PNG)
+ 
+  
   
  
  
